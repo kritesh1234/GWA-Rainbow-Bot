@@ -1,0 +1,22 @@
+{
+    "token": "NTQ0ODI5ODk3MzAyODY3OTY4.D0Q0Cg.bhfyAyYG8EW_CbNDeJuqp6Nb1WU",
+    "prefix": "/",
+    "rainbowdelay": 100,
+    "rainbowcommand": "specialrainbow",
+    "rainbowstop": "stopspecialrainbow",
+    "rainbowrole": [
+        "#9400D3",
+        "#4B0082",
+        "#0000FF",
+        "#00FF00",
+        "#FFFF00",
+        "#FF7F00",
+        "#FF0000"
+    ],
+    "messageresponse": {
+        "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
+        "success": "My Respected owner, Gaming with Abhi. I would really appericiate to make ur color rainoe. Do u loveme? If yes i Love u too <3 Thanks for the waste of time!!!",
+        "rainbowstop": "Ok rainbow is over",
+        "rolenotfound": "The requested role you typed was not found"
+    }
+}
